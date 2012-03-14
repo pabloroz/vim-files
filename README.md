@@ -1,4 +1,4 @@
-VIM FILES for malev
+V.IM FILES for malev
 ===================
 
 Plugins installed
